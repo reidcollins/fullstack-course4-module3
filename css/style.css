@@ -4,7 +4,6 @@
   border-radius: 0;
   border: 0;
 }
-
 .navbar-brand {
   padding-top: 18px;
 }
@@ -22,6 +21,9 @@
 }
 ul#nav-list li {
   text-align: center;
+}
+.navbar-nav>li>a {
+  background-color: #C0D9AF;
 }
 #nav-list a:hover {
   background: #D8D8D8;
