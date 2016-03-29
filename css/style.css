@@ -23,6 +23,9 @@
 ul#nav-list li {
   text-align: center;
 }
+#nav-list a:hover {
+  background: #D8D8D8;
+}
 .item-container {
   position: relative;
   top: 20px;
